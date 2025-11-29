@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:00C9FF,100:92FE9D&height=200&text=Abhishek%20Khati&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="180",width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Abhishek Khati</h1>
 <h3 align="center">👨‍💻Passionate about Data,Tech & Innovation</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00A8FF&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Aspiring+Data+Analyst;Tech+Lover;Python+Programmer;Problem+Solver">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-khati&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-khati" /> </p>
 
@@ -23,9 +29,15 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-khati&show_icons=true&locale=en" alt="abhishek-khati" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-khati&theme=react-dark&hide_border=true"/>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-khati&" alt="abhishek-khati" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a car"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a car" /></a></p><br><br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
